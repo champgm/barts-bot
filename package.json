@@ -1,0 +1,29 @@
+{
+  "name": "barts-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/start.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/champgm/barts-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/champgm/barts-bot/issues"
+  },
+  "homepage": "https://github.com/champgm/barts-bot#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "ls": "^0.2.1",
+    "nvm": "^0.0.4"
+  }
+}
